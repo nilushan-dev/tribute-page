@@ -1,78 +1,96 @@
 # Tribute Page - Dr. A.P.J. Abdul Kalam
 
-A clean and responsive tribute page dedicated to **Dr. A.P.J. Abdul Kalam**, the Missile Man of India.  
-This page includes a timeline of his life, an inspiring quote, and a link to his Wikipedia page.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+
+A clean, responsive, and visually appealing tribute page dedicated to **Dr. A.P.J. Abdul Kalam**, the Missile Man of India.  
+This page highlights his life, achievements, an inspiring quote, and provides a link to his Wikipedia page.
 
 ---
 
-## 📁 Project Structure
+## 📸 Project Preview
+
+![Tribute Page Screenshot](screenshot.png)  
+
+---
+
+## 🗂️ Project Structure
+
+
 
 tribute-page/
 │
-├── index.html # Main HTML file
-└── styles.css # CSS file for styling
+├── index.html # Main HTML file with content and structure
+├── styles.css # CSS file for layout, styling, and responsiveness
+└── README.md # Project documentation
 
-yaml
-Copy
-Edit
+
 
 ---
 
-## 🖥️ HTML Structure
+## 🖥️ Built With
 
-The page uses **semantic HTML5 elements** for proper structure:
+- **HTML5** – Semantic markup for accessibility and clear structure  
+- **CSS3** – Styling, layout, and responsive design  
+
+---
+
+## ⚙️ Features
+
+- Fully responsive design for all screen sizes  
+- Semantic HTML5 structure for accessibility  
+- Clean, minimalistic styling using CSS  
+- Timeline of Dr. Kalam’s life and achievements  
+- Inspirational quote section  
+- External link to Wikipedia for further reading  
+
+---
+
+## 📝 HTML & CSS Overview
+
+### HTML Elements Used
 
 | Element        | Purpose |
 |----------------|---------|
-| `<html>`       | Root element of the page |
-| `<head>`       | Metadata, title, and CSS link |
-| `<body>`       | All visible content |
-| `<main>`       | Wraps main content |
+| `<main>`       | Main content wrapper |
 | `<h1>` & `<h2>` | Headings for title and sections |
 | `<p>`          | Paragraphs for description and quotes |
-| `<figure>` & `<figcaption>` | Image with a caption |
-| `<img>`        | Displays Dr. Kalam’s photo |
+| `<figure>` & `<figcaption>` | Image with descriptive caption |
+| `<img>`        | Displays tribute image |
 | `<ul>` & `<li>` | Timeline of life events |
-| `<a>`          | Link to Wikipedia |
-| `<div>`        | Section containers for layout and styling |
+| `<a>`          | External link to Wikipedia |
+| `<div>`        | Layout and section containers |
 
----
-
-## 🎨 CSS Styling
-
-The page uses CSS for **layout, typography, and responsiveness**:
+### CSS Styling Highlights
 
 | Selector / ID   | Purpose |
 |-----------------|---------|
-| `body`          | Sets font, color, background, and text alignment |
-| `#main`         | Main container with width, padding, background, and border-radius |
-| `h1`, `h2`      | Centered headings with spacing and font sizes |
+| `body`          | Font, color, background, alignment |
+| `#main`         | Container styling: padding, background, border-radius |
 | `#img-div`      | Image container with padding and background |
-| `#image`        | Makes image responsive and centered |
-| `#img-caption`  | Styles caption text below the image |
-| `#tribute-info` | Timeline container with width and spacing |
-| `li`            | Styles each timeline item with padding and font size |
-| `#quote`        | Italic, larger font for quote |
-| `#last-link`    | Bold and larger font for the Wikipedia link |
-
----
-
-## ⚡ Features
-
-- Responsive layout for all devices  
-- Semantic HTML5 structure for accessibility  
-- Simple, clean design using CSS  
-- Easy to read timeline and quotes  
+| `#image`        | Responsive and centered image |
+| `#tribute-info` | Timeline section styling |
+| `li`            | Timeline list item styling |
+| `#quote`        | Italic, styled quote section |
+| `#last-link`    | Bold and noticeable Wikipedia link |
 
 ---
 
 ## 🔗 Live Demo
 
-Open `index.html` in any browser to view the page.
+Open `index.html` in any modern browser to view the page.  
 
 ---
 
 ## 👤 Author
 
 **Nilushan Dev**  
-GitHub: [https://github.com/nilushan-dev](https://github.com/nilushan-dev)
+GitHub: [https://github.com/nilushan-dev](https://github.com/nilushan-dev)  
+
+---
+
+## 📚 References
+
+- [Dr. A.P.J. Abdul Kalam – Wikipedia](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam)  
+- [MDN Web Docs – HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+- [MDN Web Docs – CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
