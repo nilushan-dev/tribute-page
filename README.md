@@ -17,14 +17,11 @@ This page highlights his life, achievements, an inspiring quote, and provides a 
 ## 🗂️ Project Structure
 
 
-
 tribute-page/
-│
-├── index.html # Main HTML file with content and structure
-├── styles.css # CSS file for layout, styling, and responsiveness
+│<br>
+├── index.html # Main HTML file with content and structure<br>
+├── styles.css # CSS file for layout, styling, and responsiveness<br>
 └── README.md # Project documentation
-
-
 
 ---
 
@@ -37,60 +34,13 @@ tribute-page/
 
 ## ⚙️ Features
 
-- Fully responsive design for all screen sizes  
-- Semantic HTML5 structure for accessibility  
-- Clean, minimalistic styling using CSS  
-- Timeline of Dr. Kalam’s life and achievements  
+- Fully responsive design  
+- Timeline of Dr. Kalam’s life  
 - Inspirational quote section  
-- External link to Wikipedia for further reading  
-
----
-
-## 📝 HTML & CSS Overview
-
-### HTML Elements Used
-
-| Element        | Purpose |
-|----------------|---------|
-| `<main>`       | Main content wrapper |
-| `<h1>` & `<h2>` | Headings for title and sections |
-| `<p>`          | Paragraphs for description and quotes |
-| `<figure>` & `<figcaption>` | Image with descriptive caption |
-| `<img>`        | Displays tribute image |
-| `<ul>` & `<li>` | Timeline of life events |
-| `<a>`          | External link to Wikipedia |
-| `<div>`        | Layout and section containers |
-
-### CSS Styling Highlights
-
-| Selector / ID   | Purpose |
-|-----------------|---------|
-| `body`          | Font, color, background, alignment |
-| `#main`         | Container styling: padding, background, border-radius |
-| `#img-div`      | Image container with padding and background |
-| `#image`        | Responsive and centered image |
-| `#tribute-info` | Timeline section styling |
-| `li`            | Timeline list item styling |
-| `#quote`        | Italic, styled quote section |
-| `#last-link`    | Bold and noticeable Wikipedia link |
-
----
-
-## 🔗 Live Demo
-
-Open `index.html` in any modern browser to view the page.  
+- External link to Wikipedia  
 
 ---
 
 ## 👤 Author
 
-**Nilushan Dev**  
-GitHub: [https://github.com/nilushan-dev](https://github.com/nilushan-dev)  
-
----
-
-## 📚 References
-
-- [Dr. A.P.J. Abdul Kalam – Wikipedia](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam)  
-- [MDN Web Docs – HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-- [MDN Web Docs – CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+**Nilushan Dev** – [GitHub](https://github.com/nilushan-dev)
