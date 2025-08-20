@@ -17,7 +17,7 @@ This page highlights his life, achievements, an inspiring quote, and provides a 
 ## 🗂️ Project Structure
 
 
-tribute-page/
+tribute-page/<br>
 │<br>
 ├── index.html # Main HTML file with content and structure<br>
 ├── styles.css # CSS file for layout, styling, and responsiveness<br>
@@ -39,6 +39,10 @@ tribute-page/
 - Inspirational quote section  
 - External link to Wikipedia  
 
+---
+## Live Demo
+
+[View the live demo](https://nilushan-dev.github.io/tribute-page/)
 ---
 
 ## 👤 Author
