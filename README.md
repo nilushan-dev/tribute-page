@@ -40,11 +40,7 @@ tribute-page/
 - External link to Wikipedia  
 
 ---
-## 🔗 Live Demo
 
-View the live demo here: [https://nilushan-dev.github.io/tribute-page/](https://nilushan-dev.github.io/tribute-page/)
-
----
 ## 👤 Author
 
 **Nilushan Dev** – [GitHub](https://github.com/nilushan-dev)
